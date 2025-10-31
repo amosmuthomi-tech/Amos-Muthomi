@@ -9,19 +9,20 @@
 
 ## 👨🏽‍💻 About Me
 
-I’m **Amos Muthomi**, a **Data Engineer, Data Scientist, Machine Learning Engineer, and Business Analyst** dedicated to transforming complex data into **strategic intelligence and measurable impact**.
+## 👨🏽‍💻 About Me
 
-At the **National Construction Authority (NCA)**, I have spearheaded nationwide research and analytics programs, designed data pipelines, built machine learning models, and developed interactive Power BI dashboards that inform policy, strategy, and innovation.
+I’m **Muthomi Amos Muriungi**, a **Data Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, and Business Analyst** committed to transforming complex data into **strategic intelligence and measurable impact**.  
+
+Over the years, I’ve **led nationwide analytics programs**, **designed end-to-end data pipelines**, **built machine learning models**, and **developed interactive Power BI dashboards** that drive **policy, strategy, and innovation**.  
+
+With expertise in **Python, R, SQL, Scala, Excel, Power BI, and Tableau**, I specialize in turning **raw, messy datasets** into **clear, actionable insights** that solve real business problems.  
 
 To me, **data is more than numbers** — it’s the *language of decisions*.  
-I build systems that make data understandable, actionable, and impactful.
+I build systems that **bridge the gap between data and business** by making complex findings **understandable, impactful, and decision-ready**.  
 
----
+💡 **My Philosophy:**  
+> *Dashboards and reports show the what. I build systems that reveal the why — and guide the how.*
 
-## 💡 My Philosophy
-
-> **Dashboards show you *what* is happening.**  
-> I build systems that explain *why* it’s happening — and *how* to make it better.
 
 ---
 
