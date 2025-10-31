@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Amos+Muthomi!;Data+Engineer+|+Data+Scientist+|+ML+Engineer+|+Business+Analyst;Transforming+Data+Into+Decisions+That+Drive+Impact!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=900&lines=👋+Hi+there%2C+I'm+Muthomi+Amos+Muriungi!;Data+Engineer.+Data+Scientist.+Data+Analyst+·+Machine+Learning+Engineer+·+Business+Analyst;Transforming+data+into+decisions+that+drive+impact+and+uncovering+the+problems+dashboards+can’t+see.">
 </p>
 
 ---
