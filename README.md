@@ -27,16 +27,36 @@ I build systems that **bridge the gap between data and business** by making comp
 ---
 
 ## 🚀 My Journey
+## 🚀 My Journey
 
-From my foundation in **Economics and Statistics** to advanced analytics and AI, I’ve developed a unique blend of skills across research, engineering, and business intelligence.  
-I’ve learned that organizations don’t just need reports — they need **clarity**, **context**, and **confidence** to act on data.
+I started my career exploring **Machine Learning** and **AI projects** — from building spam classifiers to language translators.  
+But along the way, I realized something powerful:
 
-Today, I specialize in:  
-- 🧱 Building automated **data pipelines and cloud architectures**  
-- 🤖 Developing **machine learning and forecasting models**  
-- 📊 Creating **Power BI dashboards** that drive real-time decisions  
-- 🧮 Leading **policy and performance analytics** projects  
-- 🧠 Coaching teams to embrace **data-driven transformation**
+> **Business leaders don’t just need predictions. They need clarity.**
+
+That realization pushed me to focus on **Analytics** and **Business Intelligence**, where data becomes a tool for smarter decisions.
+
+Now, my daily work revolves around:
+
+- 🧹 Cleaning and preparing messy data for analysis  
+- 📊 Designing **Power BI dashboards** that go beyond visuals to answer real business questions  
+- 💾 Writing **SQL queries** and **Python scripts** to dig deeper into hidden insights  
+- 📈 Using **Power BI** and **Excel** to track KPIs, automate reporting, and forecast performance  
+- 🧠 Communicating insights in a way that sparks **action**, not just observation  
+
+From my foundation in **Economics and Statistics** to advanced skills in **Data Science**, **Machine Learning**, and **Cloud Analytics**, I’ve developed a unique blend of research, engineering, and business expertise.
+
+> Organizations don’t just need reports — they need **clarity**, **context**, and **confidence** to act on data.
+
+### 🧩 What I Specialize In
+- Data Science & Machine Learning  
+- Business Intelligence & Data Visualization  
+- Data Engineering & Automation  
+- Forecasting & Predictive Analytics  
+- Policy & Performance Analytics  
+
+💡 **Mission:** Transform raw data into actionable clarity — empowering leaders to make decisions with insight, not instinct.
+
 
 ---
 
