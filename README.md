@@ -180,12 +180,12 @@ Today, **statistics is my compass**. From policy analytics to AI automation, I d
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect  
+**Looking to collaborate, hire, or talk analytics? Let’s chat!**
 
-[![Email](https://img.shields.io/badge/Email-amosmuthomi8@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:amosmuthomi8@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muthomi%20Amos-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/muthomi-amos-982a78269)  
+[![Gmail](https://img.shields.io/badge/amosmuthomi8@gmail.com-c1440d?logo=gmail&logoColor=white&style=flat-square)](mailto:amosmuthomi8@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Muthomi%20Amos-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/muthomi-amos-982a78269)  
 ![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2ea44f?logo=github&logoColor=white&style=flat-square)
-
 ---
 
 ⭐ *“Data is more than dashboards — it’s the DNA of better decisions.”*
