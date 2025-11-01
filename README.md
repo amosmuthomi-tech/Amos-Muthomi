@@ -26,7 +26,7 @@ I build systems that **bridge the gap between data and business** by making comp
 
 ## 🌱 My Journey
 
-Business leaders don’t just need predictions — they need **clarity rooted in statistical rigor**. That conviction began with my foundation in **Economics and Statistics**, where I mastered modeling uncertainty, hypothesis testing, regression, time-series analysis, and probabilistic inference.
+Business leaders don’t just need predictions, they need **clarity rooted in statistical rigor**. That conviction began with my foundation in **Economics and Statistics**, where I mastered modeling uncertainty, hypothesis testing, regression, time-series analysis, and probabilistic inference.
 
 That realization pushed me to focus on analytics and business intelligence. Now, my daily work revolves around:
 
@@ -55,32 +55,63 @@ Today, **statistics is my compass**. From policy analytics to AI automation, I d
 
 ---
 
-## 🛠️ My Toolkit
 
-### 🧩 **Data Engineering**
-`Python` · `SQL` · `Airflow` · `dbt` · `Spark` · `Kafka`  
-`Docker` · `Terraform` · `AWS Glue` · `Azure Data Factory` · `GCP BigQuery`  
-**Focus:** ETL/ELT pipelines, cloud integration, API automation, data warehousing
+## 🛠️ My Tech Stack
 
----
-
-### 🧠 **Data Science**
-`Scikit-learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `NumPy` · `Pandas`  
-`NLP (TF-IDF, Word2Vec, BERT)` · `Deep Learning (CNN, RNN, LSTM)`  
-**Focus:** Predictive analytics, model optimization, explainability, ML deployment
-
----
-
-### 📊 **Data Analysis & Visualization**
-`Power BI` · `Tableau` · `Excel (Power Query, VBA, DAX)`  
-`SPSS` · `Stata` · `R` · `NVivo` · `JASP`  
-**Focus:** Data cleaning, EDA, KPI tracking, forecasting, data storytelling
+### 🧩 **Data Engineering**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-F46A25?logo=dbt&logoColor=white)&nbsp;
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)&nbsp;
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white)&nbsp;
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure&logoColor=white)&nbsp;
+![GCP BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
+**Focus:** ETL/ELT pipelines, cloud integration, API automation, data warehousing  
 
 ---
 
-### 🧮 **Business & Policy Intelligence**
-`Econometrics` · `Impact Evaluation` · `Survey Design` · `Performance Analytics`  
-**Focus:** Linking insights to strategic, financial, and policy outcomes
+### 🧠 **Data Science**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-1C9BFF?logo=xgboost&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=natural-language-processing&logoColor=white)&nbsp;
+![BERT](https://img.shields.io/badge/BERT-FF6F00?logo=transformers&logoColor=white)&nbsp;
+![CNN](https://img.shields.io/badge/CNN-FF6F00?logo=keras&logoColor=white)&nbsp;
+![RNN](https://img.shields.io/badge/RNN-4B8BBE?logo=tensorflow&logoColor=white)&nbsp;
+![LSTM](https://img.shields.io/badge/LSTM-4285F4?logo=tensorflow&logoColor=white)  
+**Focus:** Predictive analytics, model optimization, explainability, ML deployment  
+
+---
+
+### 📊 **Data Analysis & Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+![Power Query](https://img.shields.io/badge/Power_Query-217346?logo=powerbi&logoColor=white)&nbsp;
+![VBA](https://img.shields.io/badge/VBA-217346?logo=visual-basic&logoColor=white)&nbsp;
+![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black)  
+![SPSS](https://img.shields.io/badge/SPSS-1C1C1C?logo=ibm&logoColor=white)&nbsp;
+![Stata](https://img.shields.io/badge/Stata-1A5B9B?logo=stata&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+![NVivo](https://img.shields.io/badge/NVivo-1C75BC?logo=nvivo&logoColor=white)&nbsp;
+![JASP](https://img.shields.io/badge/JASP-1C75BC?logo=jasp&logoColor=white)  
+**Focus:** Data cleaning, EDA, KPI tracking, forecasting, data storytelling  
+
+---
+
+### 🧮 **Business & Policy Intelligence**  
+![Econometrics](https://img.shields.io/badge/Econometrics-1f77b4?logo=r&logoColor=white)&nbsp;
+![Impact Evaluation](https://img.shields.io/badge/Impact_Evaluation-2ca02c?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2ZmZiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGM2LjYyNyAwIDEyIDUuMzczIDEyIDEyczUuMzczLTEyIDEyLTEyLTUuMzczLTEyLTEyLTEyLTEyIDUtMTIgMTJ6bTAgMmMtNS41MTQgMC0xMCA0LjQ4Ni0xMCAxMHM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMGMwLTUuNTE0LTQuNDg2LTEwLTEwLTEwem0tMS4yNSA3Ljc1aDIuNXY0LjVoLTJ6bS0xLTIuNWgyLjV2MS41aC0yLjc1eiIvPjwvc3ZnPg==&logoColor=white)&nbsp;
+![Survey Design](https://img.shields.io/badge/Survey_Design-9467bd?logo=surveymonkey&logoColor=white)&nbsp;
+![Performance Analytics](https://img.shields.io/badge/Performance_Analytics-ff7f0e?logo=google-analytics&logoColor=white)  
+**Focus:** Linking insights to strategic, financial, and policy outcomes  
 
 ---
 
