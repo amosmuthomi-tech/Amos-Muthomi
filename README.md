@@ -153,7 +153,7 @@ Today, **statistics is my compass**. From policy analytics to AI automation, I d
 
 ## 🏆 Career Highlights
 
-- Spearheaded **national research projects** across 47 counties  
+- Spearheaded **National research projects** across 47 counties  
 - Built **interactive Power BI dashboards** (2014–2025)  
 - Authored **20+ technical and policy reports**  
 - Trained **160+ professionals** in analytics and visualization  
