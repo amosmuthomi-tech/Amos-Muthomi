@@ -177,18 +177,6 @@ Today, **statistics is my compass**. From policy analytics to AI automation, I d
 📈 I believe every dataset hides a decision opportunity  
 🌍 Passionate about building **data ecosystems for public impact**
 
----
-
-## 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amosmuthomi&show_icons=true&theme=react" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosmuthomi&layout=compact&theme=react" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amosmuthomi&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
