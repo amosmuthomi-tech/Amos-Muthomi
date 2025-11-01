@@ -195,8 +195,8 @@ Today, **statistics is my compass**. From policy analytics to AI automation, I d
 ## 🤝 Let’s Connect
 
 📧 **Email:** [amosmuthomi8@gmail.com](mailto:amosmuthomi8@gmail.com)  
-🌐 **LinkedIn:** [Add your LinkedIn link here]  
-📊 **Portfolio:** [Add your Power BI / GitHub portfolio link here]  
+🌐 **LinkedIn:** [Muthomi Amos](https://www.linkedin.com/in/muthomi-amos-982a78269)  
+📊 **Portfolio:** Portfolio
 
 ---
 
