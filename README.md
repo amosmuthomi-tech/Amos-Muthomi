@@ -9,8 +9,6 @@
 
 ## 👨🏽‍💻 About Me
 
-## 👨🏽‍💻 About Me
-
 I’m **Muthomi Amos Muriungi**, a **Data Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, and Business Analyst** committed to transforming complex data into **strategic intelligence and measurable impact**.  
 
 Over the years, I’ve **led nationwide analytics programs**, **designed end-to-end data pipelines**, **built machine learning models**, and **developed interactive Power BI dashboards** that drive **policy, strategy, and innovation**.  
@@ -26,34 +24,31 @@ I build systems that **bridge the gap between data and business** by making comp
 
 ---
 
-## 🚀 My Journey
-## 🚀 My Journey
+## 🌱 My Journey
 
-I started my career exploring **Machine Learning** and **AI projects** — from building spam classifiers to language translators.  
-But along the way, I realized something powerful:
+Business leaders don’t just need predictions — they need **clarity rooted in statistical rigor**. That conviction began with my foundation in **Economics and Statistics**, where I mastered modeling uncertainty, hypothesis testing, regression, time-series analysis, and probabilistic inference.
 
-> **Business leaders don’t just need predictions. They need clarity.**
+That realization pushed me to focus on analytics and business intelligence. Now, my daily work revolves around:
 
-That realization pushed me to focus on **Analytics** and **Business Intelligence**, where data becomes a tool for smarter decisions.
+- **📊 Data Analyst**  
+  Cleaning messy data, writing high-performance SQL, and conducting **statistically significant** exploratory analysis using p-values, confidence intervals, and correlation
 
-Now, my daily work revolves around:
+- **📈 Business Intelligence Analyst**  
+  Designing Power BI dashboards that embed **statistical KPIs**, trend tests, and forecast accuracy to enable real-time, evidence-based decisions
 
-- 🧹 Cleaning and preparing messy data for analysis  
-- 📊 Designing **Power BI dashboards** that go beyond visuals to answer real business questions  
-- 💾 Writing **SQL queries** and **Python scripts** to dig deeper into hidden insights  
-- 📈 Using **Power BI** and **Excel** to track KPIs, automate reporting, and forecast performance  
-- 🧠 Communicating insights in a way that sparks **action**, not just observation  
+- **🎯 Business Analyst**  
+  Bridging strategy and data by defining measurable KPIs, running A/B tests, cohort analysis, and ROI modeling aligned with business goals
 
-From my foundation in **Economics and Statistics** to advanced skills in **Data Science**, **Machine Learning**, and **Cloud Analytics**, I’ve developed a unique blend of research, engineering, and business expertise.
+- **🧱 Data Engineer**  
+  Building automated, scalable ETL/ELT pipelines (Python, Airflow, AWS/GCP) that ensure **data integrity and reproducibility** at scale
 
-> Organizations don’t just need reports — they need **clarity**, **context**, and **confidence** to act on data.
+- **🤖 Data Scientist**  
+  Developing **statistically validated** ML models — ARIMA, Prophet, XGBoost, neural networks — with cross-validation, residual diagnostics, and performance metrics
 
-### 🧩 What I Specialize In
-- Data Science & Machine Learning  
-- Business Intelligence & Data Visualization  
-- Data Engineering & Automation  
-- Forecasting & Predictive Analytics  
-- Policy & Performance Analytics  
+- **🚀 Machine Learning Engineer**  
+  Deploying production-grade models with MLOps, monitoring drift using **statistical process control**, and optimizing for real-world impact
+
+Today, **statistics is my compass**. From policy analytics to AI automation, I don’t just deliver insights — I deliver **statistically sound, actionable confidence**.
 
 💡 **Mission:** Transform raw data into actionable clarity — empowering leaders to make decisions with insight, not instinct.
 
