@@ -1,192 +1,227 @@
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=1650&lines=👋+Hi+there%2C+I'm+Muthomi+Amos+Muriungi!;Data+Engineer+·+Data+Scientist+·+Data+Analyst+·+Machine+Learning+Engineer+and+Business+Analyst;I+transform+data+into+decisions+that+drive+impact+and+uncover+problems+dashboards+can’t+see.">
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=200&section=header&text=Amos%20Muthomi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Quantitative%20Analyst&descAlignY=58&descSize=18&descColor=a8c4e0" width="100%"/>
 
+[![Email](https://img.shields.io/badge/Email-amosmuthomi8%40gmail.com-1B3A6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amosmuthomi8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D7377?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amos-muthomi)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/amosmuthomi)
+[![Location](https://img.shields.io/badge/Kenya-Open%20to%20Global%20Remote-223D5F?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+</div>
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-I’m **Muthomi Amos Muriungi**, a **Data Engineer, Data Scientist, Data Analyst, Machine Learning Engineer, and Business Analyst** committed to transforming complex data into **strategic intelligence and measurable impact**.  
+I'm **Muthomi Amos Muriungi**, a Data Engineer, Data Scientist, Quantitative Analyst, and Economics & Policy specialist based in Nairobi, Kenya — currently pursuing an **MSc in Data Science & Engineering at the University of Florida**.
 
-Over the years, I’ve **led nationwide analytics programs**, **designed end-to-end data pipelines**, **built machine learning models**, and **developed interactive Power BI dashboards** that drive **policy, strategy, and innovation**.  
+Over the years I've led nationwide analytics programmes, designed end-to-end data pipelines, built statistical and machine learning models, and developed dashboards that drive policy, strategy, and innovation — including live production systems currently running for a US-based quantitative research firm.
 
-With expertise in **Python, R, SQL, Scala, Excel, Power BI, and Tableau**, I specialize in turning **raw, messy datasets** into **clear, actionable insights** that solve real business problems.  
+With expertise spanning Python, R, SQL, Google Colab, Power BI, Tableau, Looker Studio, and cloud platforms (AWS, Azure, GCP), I specialise in turning raw, messy datasets into clear, decision-ready outputs.
 
-To me, **data is more than numbers** — it’s the *language of decisions*.  
-I build systems that **bridge the gap between data and business** by making complex findings **understandable, impactful, and decision-ready**.  
-
-💡 **My Philosophy:**  
-> *Dashboards and reports show the what. I build systems that reveal the why — and guide the how.*
-
+> 💡 **My Philosophy:** Dashboards and reports show the *what*. I build systems that reveal the *why* — and guide the *how*.
 
 ---
 
 ## 🌱 My Journey
 
-Business leaders don’t just need predictions, they need **clarity rooted in statistical rigor**. That conviction began with my foundation in **Economics and Statistics**, where I mastered modeling uncertainty, hypothesis testing, regression, time-series analysis, and probabilistic inference.
+Business leaders don't just need predictions — they need clarity rooted in statistical rigour. That conviction began with my foundation in Economics and Statistics, where I mastered modelling uncertainty, hypothesis testing, regression, time-series analysis, and probabilistic inference.
 
-That realization pushed me to focus on analytics and business intelligence. Now, my daily work revolves around:
+That realisation pushed me to focus on analytics and data engineering. My daily work now involves:
 
-- **📊 Data Analyst**  
-  Cleaning messy data, writing high-performance SQL, and conducting **statistically significant** exploratory analysis using p-values, confidence intervals, and correlation
+- 📊 **Data Analysis** — Cleaning messy data, writing high-performance SQL, conducting statistically significant exploratory analysis
+- 📈 **BI & Dashboards** — Building Power BI and Looker Studio dashboards that embed statistical KPIs, trend tests, and forecast accuracy
+- 🧱 **Data Engineering** — Building automated, scalable ETL/ELT pipelines in Python and Apps Script that ensure data integrity at scale
+- 🔬 **Quantitative Finance** — Rolling valuation signals, forward return calibration, AR(1) half-life, shock analysis, and backtesting pipelines
+- 🤖 **Data Science & ML** — Developing statistically validated models with cross-validation, residual diagnostics, and performance metrics
 
-- **📈 Business Intelligence Analyst**  
-  Designing Power BI dashboards that embed **statistical KPIs**, trend tests, and forecast accuracy to enable real-time, evidence-based decisions
-
-- **🎯 Business Analyst**  
-  Bridging strategy and data by defining measurable KPIs, running A/B tests, cohort analysis, and ROI modeling aligned with business goals
-
-- **🧱 Data Engineer**  
-  Building automated, scalable ETL/ELT pipelines (Python, Airflow, AWS/GCP) that ensure **data integrity and reproducibility** at scale
-
-- **🤖 Data Scientist**  
-  Developing **statistically validated** ML models — ARIMA, Prophet, XGBoost, neural networks — with cross-validation, residual diagnostics, and performance metrics
-
-- **🚀 Machine Learning Engineer**  
-  Deploying production-grade models with MLOps, monitoring drift using **statistical process control**, and optimizing for real-world impact
-
-Today, **statistics is my compass**. From policy analytics to AI automation, I don’t just deliver insights — I deliver **statistically sound, actionable confidence**.
-
-💡 **Mission:** Transform raw data into actionable clarity — empowering leaders to make decisions with insight, not instinct.
-
+> 💡 **Mission:** Transform raw data into actionable clarity — empowering leaders to make decisions with insight, not instinct.
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠️ My Tech Stack
+<div align="center">
 
-### 🧩 **Data Engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)&nbsp;
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)&nbsp;
-![dbt](https://img.shields.io/badge/dbt-F46A25?logo=dbt&logoColor=white)&nbsp;
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)&nbsp;
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws&logoColor=white)&nbsp;
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure&logoColor=white)&nbsp;
-![GCP BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
-**Focus:** ETL/ELT pipelines, cloud integration, API automation, data warehousing  
+### Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-### 🧠 **Data Science**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-1C9BFF?logo=xgboost&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=natural-language-processing&logoColor=white)&nbsp;
-![BERT](https://img.shields.io/badge/BERT-FF6F00?logo=transformers&logoColor=white)&nbsp;
-![CNN](https://img.shields.io/badge/CNN-FF6F00?logo=keras&logoColor=white)&nbsp;
-![RNN](https://img.shields.io/badge/RNN-4B8BBE?logo=tensorflow&logoColor=white)&nbsp;
-![LSTM](https://img.shields.io/badge/LSTM-4285F4?logo=tensorflow&logoColor=white)  
-**Focus:** Predictive analytics, model optimization, explainability, ML deployment  
+### Machine Learning & Analytics
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
+### BI & Visualisation
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-### 📊 **Data Analysis & Visualization**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
-![Power Query](https://img.shields.io/badge/Power_Query-217346?logo=powerbi&logoColor=white)&nbsp;
-![VBA](https://img.shields.io/badge/VBA-217346?logo=visual-basic&logoColor=white)&nbsp;
-![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black)  
-![SPSS](https://img.shields.io/badge/SPSS-1C1C1C?logo=ibm&logoColor=white)&nbsp;
-![Stata](https://img.shields.io/badge/Stata-1A5B9B?logo=stata&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
-![NVivo](https://img.shields.io/badge/NVivo-1C75BC?logo=nvivo&logoColor=white)&nbsp;
-![JASP](https://img.shields.io/badge/JASP-1C75BC?logo=jasp&logoColor=white)  
-**Focus:** Data cleaning, EDA, KPI tracking, forecasting, data storytelling  
+</div>
 
 ---
 
-### 🧮 **Business & Policy Intelligence**  
-![Econometrics](https://img.shields.io/badge/Econometrics-1f77b4?logo=r&logoColor=white)&nbsp;
-![Impact Evaluation](https://img.shields.io/badge/Impact_Evaluation-2ca02c?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2ZmZiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGM2LjYyNyAwIDEyIDUuMzczIDEyIDEyczUuMzczLTEyIDEyLTEyLTUuMzczLTEyLTEyLTEyLTEyIDUtMTIgMTJ6bTAgMmMtNS41MTQgMC0xMCA0LjQ4Ni0xMCAxMHM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMGMwLTUuNTE0LTQuNDg2LTEwLTEwLTEwem0tMS4yNSA3Ljc1aDIuNXY0LjVoLTJ6bS0xLTIuNWgyLjV2MS41aC0yLjc1eiIvPjwvc3ZnPg==&logoColor=white)&nbsp;
-![Survey Design](https://img.shields.io/badge/Survey_Design-9467bd?logo=surveymonkey&logoColor=white)&nbsp;
-![Performance Analytics](https://img.shields.io/badge/Performance_Analytics-ff7f0e?logo=google-analytics&logoColor=white)  
-**Focus:** Linking insights to strategic, financial, and policy outcomes  
+## 🚀 Featured Projects
 
 ---
 
-## 💼 Featured Projects
+### 🟢 [Valuation Anchor Engine — v1 Complete](https://github.com/amosmuthomi-tech/valuation-anchor-engine)
+> *Quantitative Finance Backtesting · US Quantitative Research Firm · 2025*
 
-### 🧱 **Construction Analytics Dashboard**
-> Designed Power BI dashboards integrating data (2014–2025) for monitoring contractor performance and national construction trends.  
-**Tech:** Power BI · SQL · DAX · Python  
+**The question:** *When a stock looks cheap or expensive vs its own history, what have the next 30/60/90/120 trading-day outcomes typically looked like — and which valuation metric is the best predictor?*
 
----
+**What I built — end to end:**
+- **3,268-row daily panel** across 4 tickers (AMZN, GOOGL, MSFT, ORCL) × 817 trading days × 36 columns
+- **4 valuation metrics** (P/E FY1, EV/Revenue, EV/EBITDA, EV/FCF TTM) with log transforms, rolling 252d z-scores, and 5-bucket percentile signals — forward-fill only, no lookahead bias
+- **Forward return calibration** at 30/60/90/120 trading days — 17 distribution stats per bucket: median, IQR, hit rate, tail risk, skew, stability flags
+- **AR(1) half-life** of valuation gaps: AMZN/ORCL Fast (~35–48d) · MSFT/GOOGL Medium (~60–100d)
+- **Metric leaderboard** with Spearman IC, spread, hit rate, and rank quality scores
+- **Fast shock calibration** — 3D/5D shock events at 3%/5% thresholds, conditioned on valuation state at shock day
+- **Config-driven Google Colab notebook** — downloads 9-tab Excel + writes all tabs to Google Sheets in one run
 
-### 🤖 **Contractor Productivity Prediction Model**
-> Built predictive ML models to estimate contractor efficiency using regression and classification techniques.  
-**Tech:** Python · Scikit-learn · Pandas · XGBoost  
+**Selected results (in-sample, Jan 2023 – Feb 2026):**
 
----
+| Ticker | Best Anchor | Cheap Bucket Median (60d) | Hit Rate | Key Finding |
+|--------|-------------|--------------------------|----------|-------------|
+| MSFT | EV/FCF TTM | +28.6% | 100% | Currently at 1st–2nd percentile on ALL 4 metrics — most extreme cheapness in dataset |
+| ORCL | EV/Revenue FY1 | +78.0% | 100% | Strongest raw signal — use as directional (small n) |
+| AMZN | EV/Revenue FY1 | +25.5% | 100% | EV/FCF distorted by CapEx — revenue anchors are reliable |
+| GOOGL | EV/FCF TTM | +14.5% | 100% | Slow mean-reversion — signal emerges at 90–120d only |
 
-### 🌍 **MSME Mechanization Framework**
-> Developed a framework to analyze mechanization adoption among construction MSMEs.  
-**Tech:** SPSS · Python · Power BI  
-
----
-
-### 💰 **Finance Insight Engine**
-> Automated reporting and visualization for construction finance analytics using dbt and Power BI.  
-**Tech:** SQL · Azure · Power BI · Python  
-
----
-
-## 📊 What I Deliver
-
-✔️ Automated **ETL/ELT data pipelines** and cloud data architecture  
-✔️ **Machine Learning models** that predict and explain performance  
-✔️ Dashboards that **answer real business and policy questions**  
-✔️ Research-backed **insights for smarter decisions**  
-✔️ A data culture that bridges **analytics and action**
+`Python` `pandas` `numpy` `Google Colab` `openpyxl` `gspread` `Excel` `Time Series` `Statistical Modelling`
 
 ---
 
-## 🏆 Career Highlights
+### 🔵 [Tech Regime Indicators (TRI)](https://github.com/amosmuthomi-tech/tech-regime-indicators)
+> *Macro Data Pipeline · US Quantitative Research Firm · 2025 · Active*
 
-- Spearheaded **National research projects** across 47 counties  
-- Built **interactive Power BI dashboards** (2014–2025)  
-- Authored **20+ technical and policy reports**  
-- Trained **160+ professionals** in analytics and visualization  
-- Created **data cleaning templates** and reusable analysis workflows  
+**The problem:** A quantitative research team needed automated, reliable ingestion of 20+ FRED macroeconomic series (Industrial Production, PPI, Manufacturing, Construction) into a structured analytics layer — with zero manual refresh steps.
+
+```
+FRED REST API ──→ Apps Script (config-driven puller)
+                        │
+                        ▼
+               Master Config Tab
+    (series_key | series_id | agg_rule | destination_sheet)
+                        │
+          ┌─────────────┴─────────────┐
+          ▼                            ▼
+   Raw & Derived Sheet           Looker Studio
+   (wide + long format)          (real-time dashboard)
+   calc_ metrics: YoY,
+   spreads, burn ratios
+```
+
+- Dynamic multi-destination routing — new series added in one config row, zero code changes
+- Secure API key management via Script Properties
+- Derived metrics (`calc_` layer) — YoY, spreads, burn ratios — fully separated from live FRED fetches
+- Client increased weekly engagement from 30 → 40 hours after first sprint delivery
+
+`Google Apps Script` `FRED API` `BigQuery` `Looker Studio` `Google Sheets` `ETL`
+
+---
+
+### 🟠 [NCA Construction Analytics Platform](https://github.com/amosmuthomi-tech/nca-construction-analytics)
+> *National Construction Authority, Kenya · 2023–2025*
+
+End-to-end data platform covering **11 years (2014–2025)** of Kenya's construction sector across **47 counties**.
+
+- **60% reduction** in executive reporting time via API-integrated Power BI
+- MSME Mechanisation Model: binary logit + factor analysis across 250 firms → shaped national policy
+- Affordable Housing Productivity Model: contractor performance vs cost efficiency
+- BIM Uptake forecasting + scenario simulation
+- Trained **160+ professionals** · Authored **20+ national research reports**
+
+`Power BI` `SQL` `Python` `R` `SPSS` `DAX` `Power Query`
+
+---
+
+### 🟡 [Startup Growth Prediction Model](https://github.com/amosmuthomi-tech/startup-growth-prediction)
+> *iHub Research, East Africa · 2022–2023*
+
+- **85% accuracy** Random Forest + XGBoost ensemble classifier for high-growth startup identification
+- **40% reduction** in data cleaning time via automated Python validation
+- Findings shaped regional ICT innovation frameworks across East Africa
+
+`Python` `scikit-learn` `XGBoost` `R` `Tableau` `Power BI`
+
+---
+
+### ⚪ [FoodCare-KE Data Portal](https://github.com/amosmuthomi-tech/foodcare-ke-portal)
+> *Founder & CEO · Social Enterprise · 2020–Present*
+
+Youth-led platform tracking food security KPIs, nutrition metrics, and agribusiness outreach across Kenyan communities.
+
+`Python` `Excel` `Power BI`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amosmuthomi-tech&show_icons=true&theme=default&title_color=1B3A6B&icon_color=0D7377&text_color=1A1A2E&border_color=D0D8E8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amosmuthomi-tech&layout=compact&theme=default&title_color=1B3A6B&text_color=1A1A2E&border_color=D0D8E8)
+
+</div>
 
 ---
 
 ## 🌱 Currently Exploring
-
-- **MLOps pipelines** with Docker, MLflow & CI/CD  
-- **Real-time analytics** using Apache Kafka and Airflow  
-- **Power BI + Microsoft Fabric integration**  
-- **AI-driven forecasting & econometric modeling**
+- Expanding Valuation Anchor to META and NVDA + estimate revision momentum signals
+- Walk-forward out-of-sample validation (pre-2025 / post-2025 split)
+- MLOps pipelines with Docker, MLflow & CI/CD
+- Real-time analytics using Apache Kafka and Airflow
+- Cross-sector macro overlays for TRI (Semiconductor + Cloud layers)
+- Power BI + Microsoft Fabric integration
 
 ---
 
 ## 💬 Fun Facts
-
-⚡ Currently pursuing my **Master’s in Data Science (2025–2026)**  
-🎯 I enjoy simplifying complex systems into stories people can act on  
-📈 I believe every dataset hides a decision opportunity  
-🌍 Passionate about building **data ecosystems for public impact**
-
+- ⚡ Currently pursuing MSc in Data Science & Engineering at the University of Florida (2025–2026)
+- 🎯 I enjoy simplifying complex systems into stories people can act on
+- 📈 I believe every dataset hides a decision opportunity
+- 🌍 Passionate about building data ecosystems for public impact
 
 ---
 
-## 🤝 Let’s Connect  
-**Looking to collaborate, hire, or talk analytics? Let’s chat!**
+## 🌍 Open to Opportunities
 
-[![Gmail](https://img.shields.io/badge/amosmuthomi8@gmail.com-c1440d?logo=gmail&logoColor=white&style=flat-square)](mailto:amosmuthomi8@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/Muthomi%20Amos-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/muthomi-amos-982a78269)  
-![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2ea44f?logo=github&logoColor=white&style=flat-square)
+| Sector | Roles |
+|--------|-------|
+| Big Tech (Google, Meta, Amazon) | Senior Data Engineer · ML Engineer |
+| Finance / Fintech / Quant | Quantitative Analyst · Data Engineer |
+| International NGOs / UN Agencies | Data Science Lead · Analytics Manager |
+| African Tech Scale-ups | Head of Data · Data Platform Lead |
+
+📧 **amosmuthomi8@gmail.com** · 📍 Nairobi, Kenya · 🌍 Open to Global Remote
+
 ---
 
-⭐ *“Data is more than dashboards — it’s the DNA of better decisions.”*
+<div align="center">
+
+> ⭐ *"Data is more than dashboards — it's the DNA of better decisions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=100&section=footer" width="100%"/>
+</div>
+
 
