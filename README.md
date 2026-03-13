@@ -96,7 +96,77 @@ My work spans two worlds — **quantitative finance analytics** for US-based res
 
 ---
 
-### 🟢 [Valuation Anchor Engine](https://github.com/amosmuthomi-tech/valuation-anchor-engine)
+### 🟢 [Weekly Tech Company Tracker](https://github.com/amosmuthomi-tech/weekly-tech-tracker)
+> *Production Analytics System · US Quantitative Research Firm · 2025 · v2 Active*
+
+**The question:** *Across 66 technology companies spanning 5 baskets and 19 verticals — what do the latest fundamental and valuation metrics look like right now, how do they compare to their own history, and which baskets or verticals are statistically cheap or expensive?*
+
+A weekly-run, config-driven Python pipeline that processes 280,930 rows of daily financial data and outputs a fully structured 8-tab Excel workbook — ready for investment decision-making every Monday morning.
+
+**Build Journey:**
+
+| Version | What Was Built |
+|---------|----------------|
+| **v1** | Config-driven aggregation by basket and vertical · forward-fill (ffill only, no backfill) · dynamic group dimension detection from `aggregation_config` · sum and median per metric · latest snapshot per company × metric · 4-tab Excel output with auto-fitted columns and QA checks |
+| **v2** | Z-score and percentile per basket/vertical over configurable lookback windows (1–5 years per metric) · `export_history` flag for full timeseries vs. latest-date-only · all logic fully config-driven · 8-tab Excel output |
+
+**System architecture:**
+
+```
+aggregated_5Y_long.xlsx        Weekly_Tech_Tracker.xlsx
+(280,930 rows · 66 companies   (grouping · aggregation_config)
+ · 16 metrics · 5Y daily)              │
+        │                              │
+        └──────────────┬───────────────┘
+                       ▼
+             forward_fill()  ── ffill only, never backfill
+                       │         each metric × company independently
+                       ▼
+             build_snapshot()  ── latest value per company × metric
+                       │          each metric takes its own latest date
+                       ▼
+         get_group_dimensions()  ── reads target_* cols from config
+                       │             basket · vertical · any future dim
+                       ▼
+             aggregate()  ── sum or median per group per metric
+                       │     filtered by target groups in config
+                       ▼
+             build_stats()  ── z-score · percentile · lookback window
+                       │       only computed where flags = TRUE
+                       ▼
+           ┌───────────────────────────────────┐
+           │  basket_data     · vertical_data  │
+           │  basket_zscore_pct · vert_z_pct   │  8-tab Excel
+           │  basket_history  · vert_history   │  output
+           │  snapshot_debug  · qa_checks      │
+           └───────────────────────────────────┘
+```
+
+**Key design decisions:**
+
+- **No hardcoded basket/vertical** — group dimensions detected automatically from any `target_*` column in config. Add `target_region` to the config → a `region_data` tab appears in output with zero code changes
+- **Independent metric dates** — quarterly fundamentals (capex, revenue) and daily market metrics (EV, PE) each take their own latest available date. No valid data is dropped by forcing a single cutoff
+- **Config-driven z-score/percentile** — `calc_z_score`, `calc_percentile`, `export_history`, and `lookback_years` are all read from `aggregation_config` per metric. No flags hardcoded anywhere
+- **Point-in-time integrity** — forward-fill only, never backfill. No future value can fill a past gap
+
+**Output — 8 tabs, 280,930 rows processed:**
+
+| Tab | Contents |
+|-----|----------|
+| `basket_data` | Latest aggregated values — 5 baskets × 16 metrics |
+| `vertical_data` | Latest aggregated values — 11 active verticals × 16 metrics |
+| `basket_zscore_pct` | Z-score + percentile at latest date per basket |
+| `vertical_zscore_pct` | Z-score + percentile at latest date per vertical |
+| `basket_history` | Full weekly timeseries — 15,085 rows |
+| `vertical_history` | Full weekly timeseries — 33,020 rows |
+| `snapshot_debug` | Latest value per company × metric with as_of_date |
+| `qa_checks` | Company coverage · metric coverage · nulls · latest date |
+
+`Python` `pandas` `NumPy` `scipy` `openpyxl` `Excel` `Time Series` `Statistical Modelling` `Z-Score` `Percentile`
+
+---
+
+### 🔵 [Valuation Anchor Engine](https://github.com/amosmuthomi-tech/valuation-anchor-engine)
 > *Quantitative Finance Backtesting System · US Quantitative Research Firm · 2025 · v1 Complete*
 
 **The question:** *When a stock looks cheap or expensive versus its own recent history — what have the next 30, 60, 90, and 120 trading days typically looked like? And which valuation metric is the best signal for each company?*
@@ -145,7 +215,7 @@ panel_daily  ── 3,268 rows × 36 cols ── single source of truth
 
 ---
 
-### 🔵 [Tech Regime Indicators (TRI)](https://github.com/amosmuthomi-tech/tech-regime-indicators)
+### 🟠 [Tech Regime Indicators (TRI)](https://github.com/amosmuthomi-tech/tech-regime-indicators)
 > *Macro Data Pipeline · US Quantitative Research Firm · 2025 · Active*
 
 **The problem:** A quantitative research team needed automated ingestion of 20+ FRED macroeconomic series into a structured analytics layer — with zero manual refresh steps, live Looker Studio dashboards, and full per-series audit logging.
@@ -175,7 +245,7 @@ Config Tab ──→ Apps Script puller ──→ FRED REST API
 
 ---
 
-### 🟠 [NCA Construction Analytics Platform](https://github.com/amosmuthomi-tech/nca-construction-analytics)
+### 🟡 [NCA Construction Analytics Platform](https://github.com/amosmuthomi-tech/nca-construction-analytics)
 > *National Construction Authority, Kenya · 2023–2025 · 47 Counties · National Policy Scale*
 
 End-to-end data platform covering **11 years (2014–2025)** of Kenya's construction sector across all **47 counties** — embedded in national government policy decisions at the highest level.
@@ -191,7 +261,7 @@ End-to-end data platform covering **11 years (2014–2025)** of Kenya's construc
 
 ---
 
-### 🟡 [Startup Growth Prediction Model](https://github.com/amosmuthomi-tech/startup-growth-prediction)
+### 🟤 [Startup Growth Prediction Model](https://github.com/amosmuthomi-tech/startup-growth-prediction)
 > *iHub Research, East Africa · 2022–2023*
 
 - **85% accuracy** Random Forest + XGBoost ensemble classifier for high-growth startup identification (AUC-ROC: **0.89**)
@@ -199,7 +269,6 @@ End-to-end data platform covering **11 years (2014–2025)** of Kenya's construc
 - **25% improvement** in dataset error rates across three simultaneous national-level projects
 - Applied SMOTE for class imbalance · SHAP for model interpretability · GridSearchCV with 5-fold CV
 - Findings shaped ICT innovation support frameworks across East Africa
-- Recognised as lead data consultant on the full regional innovation mapping project
 
 `Python` `scikit-learn` `XGBoost` `SHAP` `R` `pandas` `SPSS` `Tableau` `Power BI` `SQL`
 
@@ -211,7 +280,7 @@ End-to-end data platform covering **11 years (2014–2025)** of Kenya's construc
 - Binary logit + OLS regression + factor analysis across 250 construction MSMEs across Kenya's 47 counties
 - Access to affordable credit: strongest predictor of adoption (OR = **3.2**)
 - Technology awareness training: increased adoption probability by **~40%**
-- Urban counties showed **3× higher** adoption rates than rural — captured in regional Power BI dashboards
+- Urban counties showed **3× higher** adoption rates than rural
 - Findings directly influenced Kenya's national MSME mechanisation policy framework
 
 `Python` `SPSS` `R` `Power BI` `SQL` `pandas` `statsmodels` `sklearn`
@@ -243,6 +312,7 @@ Founded and built a community data analytics platform tracking food security KPI
 - 🌍 Delivered national-scale analytics across **Kenya's 47 counties** — directly embedded in government policy decisions
 - 📊 Built **live production pipelines** for a US quantitative research firm — running in production today
 - 📈 Built quant backtesting system covering **817 trading days** across 4 major US tech stocks (HAC/NW corrected, FDR-adjusted)
+- 📉 Built weekly tracker processing **280,930 rows** across 66 tech companies — z-scores, percentiles, timeseries export, updated every week
 - 🤖 Delivered **85% accuracy** (AUC-ROC 0.89) ML ensemble deployed across 3 national-level projects
 - 📋 Authored **20+ national technical and policy research reports** cited in government documents
 - 🎓 Trained **160+ professionals** in analytics, Power BI, SPSS, and data systems
@@ -253,12 +323,12 @@ Founded and built a community data analytics platform tracking food security KPI
 
 ## 🌱 Currently Building
 
+- 📉 **Weekly Tech Tracker v3** — adding cross-basket correlation matrix, regime detection, and automated weekly email digest
 - 📈 **Valuation Anchor v2** — adding META + NVDA, estimate revision momentum signals, full walk-forward OOS validation
 - 🔁 **TRI Pipeline v3** — Python + BigQuery migration, Semiconductor + Cloud macro layers, BLS + BEA + Census Bureau ingestion
 - ⚙️ **MLOps pipeline** — Docker + MLflow + GitHub Actions CI/CD for end-to-end model deployment
 - 🌊 **Real-time analytics** — Apache Kafka + Airflow streaming pipeline *(public repo coming)*
 - ☁️ **Cloud data platform** — AWS Lambda + S3 + Athena + Terraform IaC *(public repo coming)*
-- 🧠 **Econometrics & time-series** — panel data, IV regression, ARIMA, cointegration *(public repo coming)*
 - 🗄️ **SQL analytics portfolio** — 50+ production queries: window functions, CTEs, optimisation *(public repo coming)*
 
 ---
@@ -283,4 +353,5 @@ Founded and built a community data analytics platform tracking food security KPI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
+</div>
 </div>
